@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Sidra! 👋
 
-<!--
-**sidratulmuntaha807/sidratulmuntaha807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student
 
-Here are some ideas to get you started:
+🔐 Aspiring Cybersecurity Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my foundations in computer science, networking, programming, and information security.
+
+📚 Currently Learning
+
+- Computer Science Fundamentals
+- C++
+- Python
+- Networking Fundamentals
+- Operating Systems
+- Cybersecurity Fundamentals
+
+🎯 My Goals
+
+- Build strong programming and problem-solving skills.
+- Understand computer systems and networks.
+- Develop practical cybersecurity skills through authorized labs.
+- Build meaningful technical projects.
+- Prepare for cybersecurity internships.
+
+🛠️ My Approach
+
+Learn → Practice → Build → Document
+
+🌱 My Journey
+
+This profile documents my progress from beginner-level foundations toward professional cybersecurity engineering.
